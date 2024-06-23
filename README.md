@@ -28,7 +28,7 @@ git push origin master
 Time to move on to the next stage!
 
 # Stage 2 & beyond
-
+# gg
 Note: This section is for stages 2 and beyond.
 
 1. Ensure you have `python (3.11)` installed locally
